@@ -24,9 +24,9 @@
 // Global Volume Configuration
 #define GLOBAL_VOLUME_MULTIPLIER 1.0  // Global volume factor (0.1 to 1.0)
 // Base volume levels (will be multiplied by GLOBAL_VOLUME_MULTIPLIER)
-#define BASE_IDLE_VOLUME 10      // Base volume for idle music
-#define BASE_GAMEPLAY_MIN 5     // Base minimum volume during gameplay
-#define BASE_GAMEPLAY_MAX 20     // Base maximum volume during gameplay
+#define BASE_IDLE_VOLUME 15      // Base volume for idle music
+#define BASE_GAMEPLAY_MIN 2     // Base minimum volume during gameplay
+#define BASE_GAMEPLAY_MAX 15     // Base maximum volume during gameplay
 
 // Calculated global volumes (computed at compile time)
 #define IDLE_VOLUME ((int)(BASE_IDLE_VOLUME * GLOBAL_VOLUME_MULTIPLIER))

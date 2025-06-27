@@ -10,12 +10,15 @@ Iron Fist is an interactive arm-wrestling game featuring two 3D-printed characte
 
 ## Hardware Components
 
-- **Arduino Nano** - Main controller
-- **3 Push Buttons** - Start game + 2 player buttons
-- **SG90 Servo Motor** - Controls the arm movement
-- **NeoPixel LED Strip (8 LEDs)** - Visual feedback and animations
-- **DFPlayer Mini MP3 Module** - Audio playback
-- **Speaker** - Sound output
+| Component | Model/Type | Purpose |
+|-----------|------------|---------|
+| **Arduino Nano** | Arduino Nano | Main controller |
+| **Start Button** | Push Button | Start game |
+| **Player Buttons** | 2x Cherry MX Switch | Player 1 & 2 controls |
+| **Servo Motor** | SG90 | Controls the arm movement |
+| **LED Strip** | NeoPixel (8 LEDs) | Visual feedback and animations |
+| **MP3 Module** | DFPlayer Mini | Audio playback |
+| **Speaker** | Speaker | Sound output |
 
 ## Features
 

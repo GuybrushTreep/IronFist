@@ -50,6 +50,19 @@ Iron Fist is an interactive arm-wrestling game featuring two 3D-printed characte
 
 ![Schematics](images/Schematics.jpg)
 
+### Pin Connection Table
+
+| Component | Arduino Pin | Component Pin | Power | Ground |
+|-----------|-------------|---------------|-------|--------|
+| **Start Button** | Pin 2 | Signal | - | GND |
+| **Player 1 Button (Cherry MX)** | Pin 3 | Signal | - | GND |
+| **Player 2 Button (Cherry MX)** | Pin 4 | Signal | - | GND |
+| **SG90 Servo** | Pin 9 | Signal (Orange) | 5V (Red) | GND (Brown) |
+| **NeoPixel Strip** | Pin 6 | Data In | 5V | GND |
+| **DFPlayer Mini** | Pin 7 (RX) | TX | 5V | GND |
+| **DFPlayer Mini** | Pin 8 (TX) | RX | - | - |
+| **Speaker** | - | - | DFPlayer SPK+ | DFPlayer SPK- |
+
 ```cpp
 #define BUTTON_START_PIN 2      // Start game button
 #define BUTTON_PLAYER1_PIN 3    // Player 1 button (Red)

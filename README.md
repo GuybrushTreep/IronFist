@@ -41,6 +41,8 @@ Iron Fist is an interactive arm-wrestling game featuring two 3D-printed characte
 
 ## Pin Configuration
 
+![Schematics](images/Schematics.jpg)
+
 ```cpp
 #define BUTTON_START_PIN 2      // Start game button
 #define BUTTON_PLAYER1_PIN 3    // Player 1 button (Red)

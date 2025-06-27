@@ -1,6 +1,8 @@
 # Iron Fist Game
 
-<img src="images/Cover.jpg" width="400" alt="Iron Fist Game Cover" />
+<div align="center">
+  <img src="images/Cover.jpg" width="400" alt="Iron Fist Game Cover" />
+</div>
 
 A 3D-printed two-player Arduino game where players compete by rapidly pressing buttons to tilt connected arms in their favor.
 

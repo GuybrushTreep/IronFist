@@ -75,7 +75,10 @@ Iron Fist is an interactive arm-wrestling game featuring two 3D-printed characte
 
 ## Installation
 
-1. **Software Setup**
+1. **3D Printing**
+   - Download the 3D files from Makerworld: https://makerworld.com/fr/models/1526232-flick-out-mini-arcade-punching-machine
+
+2. **Software Setup**
    - Install required Arduino libraries:
      - Servo
      - Adafruit_NeoPixel
@@ -83,7 +86,7 @@ Iron Fist is an interactive arm-wrestling game featuring two 3D-printed characte
      - DFRobotDFPlayerMini
    - Upload the provided code to Arduino Nano
 
-2. **Audio Setup**
+3. **Audio Setup**
    - Format SD card as FAT32
    - ⚠️ Copy audio files to SD card root directory - copy files one by one, in order!
    - Place these files on the DFPlayer Mini's SD card:

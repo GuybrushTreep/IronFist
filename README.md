@@ -17,7 +17,7 @@ Iron Fist is an interactive arm-wrestling game featuring two 3D-printed characte
 
 ### Demo Video
 
-[![Iron Fist Game Demo](https://img.youtube.com/vi/AkbmJ1xRAMI/maxresdefault.jpg)](https://youtu.be/AkbmJ1xRAMI)
+[![Watch the demo](https://img.youtube.com/vi/AkbmJ1xRAMI/maxresdefault.jpg)](https://www.youtube.com/watch?v=AkbmJ1xRAMI)
 
 ## Hardware Components
 

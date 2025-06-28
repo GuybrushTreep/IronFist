@@ -15,6 +15,10 @@ A 3D-printed two-player Arduino game where players compete by rapidly pressing b
 
 Iron Fist is an interactive arm-wrestling game featuring two 3D-printed characters with joined arms controlled by a servo motor. Players must rapidly press their buttons to pull the arms to their side. The first player to reach the maximum position wins!
 
+### Demo Video
+
+[![Iron Fist Game Demo](https://img.youtube.com/vi/AkbmJ1xRAMI/0.jpg)](https://youtu.be/AkbmJ1xRAMI)
+
 ## Hardware Components
 
 | Component | Model/Type | Purpose |

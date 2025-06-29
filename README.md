@@ -80,7 +80,7 @@ Iron Fist is an interactive arm-wrestling game featuring two 3D-printed characte
 ## Installation
 
 1. **3D Printing**
-   - Download the 3D files from Makerworld: https://makerworld.com/fr/models/1526232-flick-out-mini-arcade-punching-machine
+   - Download the 3D files from Makerworld: https://makerworld.com/fr/models/1557504-iron-fist#profileId-1636572
 
 2. **Software Setup**
    - Install required Arduino libraries:
